@@ -1,12 +1,12 @@
 ---
 title: Local Code Kit Demo
 emoji: 🧭
-colorFrom: cyan
-colorTo: slate
+colorFrom: blue
+colorTo: gray
 sdk: static
 pinned: false
 license: other
-short_description: Public demo for ARK LocalEngine with repo indexing and cited local code answers.
+short_description: Local repo indexing with cited code answers.
 ---
 
 # Local Code Kit Demo
