@@ -1,0 +1,175 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Local Code Kit Demo</title>
+  <style>
+    :root {
+      color-scheme: light;
+      --bg: #f6f7f9;
+      --ink: #172033;
+      --muted: #5b6475;
+      --line: #d8dde6;
+      --panel: #ffffff;
+      --accent: #0f6bff;
+    }
+
+    * {
+      box-sizing: border-box;
+    }
+
+    body {
+      margin: 0;
+      background: var(--bg);
+      color: var(--ink);
+      font-family: Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+    }
+
+    main {
+      max-width: 980px;
+      margin: 0 auto;
+      padding: 64px 20px;
+    }
+
+    .eyebrow {
+      color: var(--accent);
+      font-size: 12px;
+      font-weight: 800;
+      letter-spacing: 0.08em;
+      text-transform: uppercase;
+      margin-bottom: 14px;
+    }
+
+    h1 {
+      font-size: clamp(42px, 8vw, 76px);
+      line-height: 0.95;
+      margin: 0 0 22px;
+      letter-spacing: 0;
+    }
+
+    .lead {
+      max-width: 760px;
+      color: var(--muted);
+      font-size: 19px;
+      line-height: 1.7;
+      margin: 0 0 30px;
+    }
+
+    .actions {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 12px;
+      margin-bottom: 34px;
+    }
+
+    a.button {
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      min-height: 44px;
+      padding: 0 16px;
+      border: 1px solid var(--line);
+      border-radius: 8px;
+      color: var(--ink);
+      background: var(--panel);
+      text-decoration: none;
+      font-weight: 800;
+    }
+
+    a.primary {
+      color: #ffffff;
+      background: var(--ink);
+      border-color: var(--ink);
+    }
+
+    .grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+      gap: 14px;
+    }
+
+    .card {
+      min-height: 150px;
+      padding: 22px;
+      border: 1px solid var(--line);
+      border-radius: 8px;
+      background: var(--panel);
+    }
+
+    .card h2 {
+      margin: 0 0 10px;
+      font-size: 18px;
+    }
+
+    .card p,
+    .card li {
+      color: var(--muted);
+      line-height: 1.65;
+      font-size: 15px;
+    }
+
+    .card p,
+    ul {
+      margin: 0;
+    }
+
+    ul {
+      padding-left: 18px;
+    }
+
+    code {
+      display: block;
+      overflow-wrap: anywhere;
+      padding: 14px;
+      border-radius: 8px;
+      background: #101827;
+      color: #edf4ff;
+      line-height: 1.65;
+      font-size: 14px;
+    }
+  </style>
+</head>
+<body>
+  <main>
+    <div class="eyebrow">ARK LocalEngine public demo</div>
+    <h1>Local Code Kit Demo</h1>
+    <p class="lead">
+      A source-local code assistant workflow that indexes a tiny repository,
+      answers coding questions with file citations, and shows how ARK
+      LocalEngine differs from a generic base model demo.
+    </p>
+
+    <div class="actions">
+      <a class="button primary" href="https://github.com/Janice799/ark-localengine-demo" target="_blank" rel="noreferrer">Open GitHub demo</a>
+      <a class="button" href="https://www.ark-deck.com/code" target="_blank" rel="noreferrer">Request Local Code Kit</a>
+      <a class="button" href="./transcripts/demo_transcript.md">Read transcript</a>
+    </div>
+
+    <div class="grid">
+      <section class="card">
+        <h2>What it proves</h2>
+        <ul>
+          <li>Local repo indexing</li>
+          <li>Citation-backed code answers</li>
+          <li>Source stays on the user's machine</li>
+        </ul>
+      </section>
+
+      <section class="card">
+        <h2>Demo question</h2>
+        <code>localengine ask "Where is checkout_total implemented?"</code>
+      </section>
+
+      <section class="card">
+        <h2>Commercial boundary</h2>
+        <p>
+          This public Space is a small demo. The paid Local Code Kit includes
+          the private repository or licensed ZIP, delivery docs, and upgrade
+          path for customer-specific work.
+        </p>
+      </section>
+    </div>
+  </main>
+</body>
+</html>
