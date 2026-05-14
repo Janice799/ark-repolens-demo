@@ -1,5 +1,5 @@
 ---
-title: ARK RepoLens Demo
+title: ARK RepoLens
 emoji: 🧭
 colorFrom: blue
 colorTo: gray
@@ -9,7 +9,7 @@ license: other
 short_description: Local repo indexing with cited code answers.
 ---
 
-# ARK RepoLens Demo
+# ARK RepoLens
 
 ARK RepoLens is a public demo of ARK LocalEngine, a source-local repo
 intelligence workflow for private repositories. It indexes a tiny demo project,

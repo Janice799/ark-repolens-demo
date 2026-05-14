@@ -1,4 +1,4 @@
-# ARK RepoLens Demo
+# ARK RepoLens
 
 Public demo for ARK RepoLens, an ARK LocalEngine product for private
 repositories. The demo indexes a tiny project, answers coding questions with
