@@ -30,6 +30,14 @@ The demo answer points to:
 
 See `transcripts/demo_transcript.md` for the full example output.
 
+## Public Space
+
+https://huggingface.co/spaces/JaniceMJ/ark-repolens
+
+GitHub demo repository:
+
+https://github.com/Janice799/ark-localengine-demo
+
 ## Demo Project
 
 ```text
