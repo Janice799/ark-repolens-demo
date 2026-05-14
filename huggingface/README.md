@@ -1,5 +1,5 @@
 ---
-title: Local Code Kit Demo
+title: ARK RepoLens Demo
 emoji: 🧭
 colorFrom: blue
 colorTo: gray
@@ -9,12 +9,12 @@ license: other
 short_description: Local repo indexing with cited code answers.
 ---
 
-# Local Code Kit Demo
+# ARK RepoLens Demo
 
-Local Code Kit is a public demo of ARK LocalEngine, a local code assistant
-workflow for private repositories. It indexes a tiny demo project, answers
-coding questions with file citations, and keeps source code on the user's
-machine.
+ARK RepoLens is a public demo of ARK LocalEngine, a source-local repo
+intelligence workflow for private repositories. It indexes a tiny demo project,
+answers coding questions with file citations, and keeps source code on the
+user's machine.
 
 This is not a new base model release. It is a demo of a productized local code
 workflow that can run on top of approved open or local model paths. Base model
@@ -57,7 +57,7 @@ localengine ask "Where is checkout_total implemented?"
 
 ## Full Commercial Kit
 
-The paid Local Code Kit includes private repo or licensed ZIP delivery, install
+The paid ARK RepoLens package includes private repo or licensed ZIP delivery, install
 docs, delivery checklist, commercial handoff templates, configuration files, and
 an upgrade path for customer-specific model or adapter work.
 

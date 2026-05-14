@@ -1,6 +1,6 @@
-# Local Code Kit Demo
+# ARK RepoLens Demo
 
-Public demo for ARK LocalEngine, a local code assistant workflow for private
+Public demo for ARK RepoLens, an ARK LocalEngine product for private
 repositories. The demo indexes a tiny project, answers coding questions with
 file citations, and shows how source code can stay on the user's machine.
 
@@ -49,7 +49,7 @@ model or adapter work.
 
 ## Full Commercial Kit
 
-The paid Local Code Kit includes the private repository or licensed ZIP
+The paid ARK RepoLens package includes the private repository or licensed ZIP
 delivery, install docs, delivery checklist, commercial handoff templates,
 configuration files, and upgrade path.
 
