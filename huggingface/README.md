@@ -11,8 +11,8 @@ short_description: Local repo indexing with cited code answers.
 
 # ARK RepoLens
 
-ARK RepoLens is a public demo of ARK LocalEngine, a source-local repo
-intelligence workflow for private repositories. It indexes a tiny demo project,
+ARK RepoLens is a public demo of a source-local repo intelligence workflow for
+private repositories. It indexes a tiny demo project,
 answers coding questions with file citations, and keeps source code on the
 user's machine.
 
@@ -24,7 +24,7 @@ weights keep their own upstream licenses.
 
 GitHub demo repository:
 
-https://github.com/Janice799/ark-localengine-demo
+https://github.com/Janice799/ark-repolens-demo
 
 ## What The Demo Shows
 

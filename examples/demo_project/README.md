@@ -1,6 +1,6 @@
 # Demo Project
 
-Tiny project for checking ARK LocalEngine retrieval before indexing a real
+Tiny project for checking ARK RepoLens retrieval before indexing a real
 customer repository.
 
 Try:

@@ -1,4 +1,4 @@
-# ARK LocalEngine Demo Transcript
+# ARK RepoLens Demo Transcript
 
 ## Demo Command
 
@@ -55,7 +55,7 @@ def refund_label(order_id: str) -> str:
 [README.md:1-12]
 # Demo Project
 
-Tiny project for checking ARK LocalEngine retrieval before indexing a real
+Tiny project for checking ARK RepoLens retrieval before indexing a real
 customer repository.
 
 Try:
