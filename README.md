@@ -57,8 +57,9 @@ model or adapter work.
 
 ## Full Commercial Kit
 
-The paid ARK RepoLens package includes the private repository or licensed ZIP
-delivery, install docs, delivery checklist, commercial handoff templates,
+The paid ARK RepoLens package starts with a PayPal invoice request. After
+payment is confirmed, THE ARK delivers private repository access or a licensed
+ZIP with install docs, delivery checklist, commercial handoff templates,
 configuration files, and upgrade path.
 
 Request access:
