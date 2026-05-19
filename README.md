@@ -55,7 +55,7 @@ citation-backed answers, secret redaction reporting, buyer delivery manifests,
 commercial handoff documents, and a customization path for customer-specific
 model or adapter work.
 
-## Full Commercial Package
+## Full Product Access
 
 The paid ARK RepoLens package starts with an ARK RepoLens PayPal payment link. After
 payment is confirmed, THE ARK delivers private repository access or a licensed
@@ -65,6 +65,10 @@ configuration files, and upgrade path.
 Request access:
 
 https://www.ark-deck.com/code
+
+Visual workflow:
+
+https://www.ark-deck.com/code#workflow-demo
 
 ## License
 
