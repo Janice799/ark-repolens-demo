@@ -6,7 +6,7 @@ with file citations, and shows how source code can stay on the user's machine.
 
 This repository is intentionally small. It is not the full paid ARK RepoLens
 delivery package and it does not include private customer code, private model
-weights, commercial handoff templates, or the licensed ZIP.
+weights, commercial handoff documents, or the licensed ZIP.
 
 ## What This Shows
 
@@ -55,11 +55,11 @@ citation-backed answers, secret redaction reporting, buyer delivery manifests,
 commercial handoff documents, and a customization path for customer-specific
 model or adapter work.
 
-## Full Commercial Kit
+## Full Commercial Package
 
 The paid ARK RepoLens package starts with an ARK RepoLens PayPal payment link. After
 payment is confirmed, THE ARK delivers private repository access or a licensed
-ZIP with install docs, delivery checklist, commercial handoff templates,
+ZIP with install docs, delivery checklist, commercial handoff documents,
 configuration files, and upgrade path.
 
 Request access:

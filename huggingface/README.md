@@ -55,10 +55,10 @@ localengine doctor
 localengine ask "Where is checkout_total implemented?"
 ```
 
-## Full Commercial Kit
+## Full Commercial Package
 
 The paid ARK RepoLens package includes private repo or licensed ZIP delivery, install
-docs, delivery checklist, commercial handoff templates, configuration files, and
+docs, delivery checklist, commercial handoff documents, configuration files, and
 an upgrade path for customer-specific model or adapter work.
 
 Request access on THE ARK:
@@ -68,4 +68,4 @@ https://www.ark-deck.com/code
 ## Boundary
 
 This public demo does not include private customer code, private model weights,
-paid delivery ZIPs, or commercial handoff templates.
+paid delivery ZIPs, or commercial handoff documents.
