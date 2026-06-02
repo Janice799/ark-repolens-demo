@@ -57,10 +57,10 @@ model or adapter work.
 
 ## Full Product Access
 
-The paid ARK RepoLens package starts with an ARK RepoLens PayPal payment link. After
-payment is confirmed, THE ARK delivers private repository access or a licensed
-ZIP with install docs, delivery checklist, commercial handoff documents,
-configuration files, and upgrade path.
+The paid ARK RepoLens package starts with ARK Deck checkout and PayPal
+confirmation. After payment is confirmed, THE ARK delivers private repository
+access or a licensed ZIP with install docs, delivery checklist, commercial
+handoff documents, configuration files, and upgrade path.
 
 Request access:
 
